@@ -1,0 +1,13 @@
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.exe
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.deps.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.runtimeconfig.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.runtimeconfig.dev.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\bin\Debug\netcoreapp3.1\LINQEXAMPLE.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.AssemblyInfoInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.AssemblyInfo.cs
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\LINQEXAMPLE\obj\Debug\netcoreapp3.1\LINQEXAMPLE.genruntimeconfig.cache
