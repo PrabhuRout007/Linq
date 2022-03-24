@@ -1,0 +1,13 @@
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.exe
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.deps.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.runtimeconfig.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.runtimeconfig.dev.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\bin\Debug\netcoreapp3.1\LinqSorting.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.AssemblyInfoInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.AssemblyInfo.cs
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.csproj.CoreCompileInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\LinqSorting\obj\Debug\netcoreapp3.1\LinqSorting.genruntimeconfig.cache

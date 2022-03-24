@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQEXAMPLE", "LINQEXAMPLE\LINQEXAMPLE.csproj", "{ADB95102-27EE-4100-A600-A5619717C8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQEXAMPLE", "LINQEXAMPLE\LINQEXAMPLE.csproj", "{ADB95102-27EE-4100-A600-A5619717C8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSorting", "LinqSorting\LinqSorting.csproj", "{64853740-D54F-40E9-9312-9106EADF0108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantifierOperation", "QuantifierOperation\QuantifierOperation.csproj", "{59F8D3CB-37AC-422A-810F-A2BF19508147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set_Operations", "Set_Operations\Set_Operations.csproj", "{487400B9-CBE0-42B4-8C0D-0EF758F18941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{ADB95102-27EE-4100-A600-A5619717C8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB95102-27EE-4100-A600-A5619717C8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADB95102-27EE-4100-A600-A5619717C8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64853740-D54F-40E9-9312-9106EADF0108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64853740-D54F-40E9-9312-9106EADF0108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64853740-D54F-40E9-9312-9106EADF0108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64853740-D54F-40E9-9312-9106EADF0108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F8D3CB-37AC-422A-810F-A2BF19508147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F8D3CB-37AC-422A-810F-A2BF19508147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F8D3CB-37AC-422A-810F-A2BF19508147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F8D3CB-37AC-422A-810F-A2BF19508147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487400B9-CBE0-42B4-8C0D-0EF758F18941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487400B9-CBE0-42B4-8C0D-0EF758F18941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487400B9-CBE0-42B4-8C0D-0EF758F18941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487400B9-CBE0-42B4-8C0D-0EF758F18941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

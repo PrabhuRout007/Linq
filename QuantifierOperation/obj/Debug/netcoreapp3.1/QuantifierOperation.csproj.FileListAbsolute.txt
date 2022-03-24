@@ -1,0 +1,13 @@
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.exe
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.deps.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.runtimeconfig.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.runtimeconfig.dev.json
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\bin\Debug\netcoreapp3.1\QuantifierOperation.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.AssemblyInfoInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.AssemblyInfo.cs
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.csproj.CoreCompileInputs.cache
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.dll
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.pdb
+C:\Users\desktop\source\repos\LINQEXAMPLE\QuantifierOperation\obj\Debug\netcoreapp3.1\QuantifierOperation.genruntimeconfig.cache
